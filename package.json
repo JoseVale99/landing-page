@@ -1,0 +1,16 @@
+{
+  "name": "taiwildcss",
+  "version": "1.0.0",
+  "description": "In your terminal you run this command to install the dependencies to be used by TailWind. ```bash npm install tailwindcss@latest postcss@latest autoprefixer@latest ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.7"
+  }
+}
