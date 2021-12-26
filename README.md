@@ -11,7 +11,8 @@
 ```bash
 $ npx tailwindcss init  
 ```
-3. Call the Tailwindcss command to compile the CSS file.```bash
+3. Call the Tailwindcss command to compile the CSS file.
+```bash
     $ npx tailwindcss -o style.css --watch
 ```
 
