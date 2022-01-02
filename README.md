@@ -1,6 +1,9 @@
 
-
-
+# Setting
+1. Execute the next command in terminal, to add the styles to the styles sheet.
+```
+  $ npx tailwindcss -o style.css --watch   
+```
 ## Dependencies
 1. In your terminal you run this command to install the dependencies to be used by TailWind.
 ```bash
