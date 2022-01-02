@@ -4,6 +4,7 @@ module.exports = {
     './*.html',
   ],
   content: [],
+  darkMode:media,
   theme: {
     extend: {},
   },
